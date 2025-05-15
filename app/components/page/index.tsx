@@ -1,6 +1,9 @@
+"use client";
+
 import React from 'react';
 
-import { Header } from './Header';
+import { Header } from '../../components/header';  
+
 import './page.css';
 
 type User = {
