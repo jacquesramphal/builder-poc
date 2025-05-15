@@ -25,6 +25,10 @@
   font-size: 12px;
 }
 
+.storybook-header button:first-of-type.storybook-button--small {
+  padding: 10px 16px 10px 0;
+}
+
 .storybook-button--medium {
   padding: 11px 20px;
   font-size: 14px;
